@@ -1,6 +1,6 @@
 # Site settings
 title: mac's/var/log
-SEOTitle: Mac
+SEOTitle: /var/log
 header-img: img/home-bg.jpg
 email: blog@machhral.com
 description: "Logs of a curious dev exploring code, self-hosting, and the indie web"
@@ -53,10 +53,6 @@ disqus_username: mac
 # Netease settings
 netease_comment: false
 
-
-# Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
