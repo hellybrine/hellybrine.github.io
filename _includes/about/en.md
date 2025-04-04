@@ -1,38 +1,22 @@
-Hey, I am Huang, Xuan (a.k.a. _@huxpro_). I worked on the [React Team](https://beta.reactjs.org/community/meet-the-team#react-core) at <del>Facebook</del>Meta.
+# About Me
 
-I considered myself as a hybrid between a software engineer specifically into the programming languages theories and implementations domain (i.e. compiler, type system, type-based formal verification, virtual machine, runtime systems, garbage collection), and a creative technologiest deeply caring about many humanistic aspects (e.g. visual, sound, interaction) in UI and HCI in general.
+Hey, I’m **Mac**, a student of **Software Engineering** with a **minor in Cyber Forensics**, and someone who loves to understand how systems work from the ground up — whether it's computers, networks, or the social dynamics of digital privacy. I find myself drawn to the kind of problems that lie at the intersection of **control, autonomy, and trust** in tech. Security and self-hosting aren’t just fields I study; they’re ideas that deeply align with how I think technology should be used — not as something we rent from corporations, but something we can own, shape, and rely on.
 
-I also worked on the [Hermes JavaScript Engine](https://hermesengine.dev/), some other projects under the [Reality Labs (Research)](https://tech.fb.com/ar-vr/), and [ReasonML](https://reasonml.github.io/) (now [ReScript](https://rescript-lang.org/)) efforts at Meta (Facebook).
+I’ve always been a firm believer in **self-reliance**, especially when it comes to digital tools and infrastructure. That belief became even more important as I started exploring **self-hosting**, privacy tools, and alternative platforms. For me, self-hosting is more than just running services locally — it’s about regaining **control over my data, eliminating unnecessary surveillance**, and building a space where the tech works *for me*, not the other way around. If a platform goes offline or leaves a region, I don’t want to be at the mercy of their roadmap or their licensing. I want to have the ability to spin up my own solutions — whether it’s for streaming, backups, syncing, or even smart home control.
 
-In the past, I worked on [Alitrip (Fliggy)](https://www.alitrip.com/) mobile and web apps under the [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), found and lead front-end infrastructure team at an unicorn startup company [Beijing Weiying (a.k.a. WePiao, now acquired by Maoyan)](https://www.crunchbase.com/organization/beijing-weiying-technology), and helped [Ele.me (now acquired by Alibaba)](https://en.wikipedia.org/wiki/Ele.me) to upgrade their mobile web site into [the first influential PWA (progressive web app) in China](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509).
+That mindset has led me to build a number of custom setups:
+- MQTT-based **smart devices** that I designed and programmed myself
+- A self-made **weather station**, pulling sensor data over local networks
+- Tools for **WiFi auditing** like **deauthers**, **beacon spam tools**, and **packet sniffers**
+- **OpenWRT-powered access points**, converting wireless connections into wired bridges for tighter network control
+- Porting the **WiFi Pineapple** experience to more affordable **SBCs**, giving me a portable red-teaming toolkit that runs off of my own hardware
 
-I studied BA, Digital Media Art at [Communication University of China](https://en.wikipedia.org/wiki/Communication_University_of_China) and MS, Computer Science (with a focus on programming languages, mainly supervised by [Prof. Matthew Fluet](https://www.cs.rit.edu/~mtf/)) at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology).
+Along the way, I’ve also dipped into more formal security work. I interned as a **security analyst** at a services-based company, where I ran through the general **penetration testing lifecycle** — planning, recon, exploitation, and reporting. I compiled structured, client-ready documentation outlining vulnerabilities, risk scores, and remediation strategies. I learned how to write for both technical teams and non-technical stakeholders, which honestly taught me just as much as the technical work itself.
 
-##### Appearence
+More recently, I’ve explored the **IAM (Identity and Access Management)** space through another internship, where I worked with platforms like **OKTA**, **Descope**, and **Saviynt**. This was an entirely different scale — where the challenge wasn’t just securing one machine or app, but managing entire **user lifecycles**, **entitlements**, and **access flows** for thousands of identities across federated systems. That exposure helped me understand the complexity behind "simple" login buttons — from token flows to SCIM provisioning to zero-trust design.
 
-- [React Labs: What We've Been Working On – June 2022][12] · React Blog · 2022
-- [React Without Memo][11] · [React Conf 2021](https://conf.reactjs.org/)
-- [Toward Hermes being the Default][11] · React Native Blog · 2021
-- React Native 0.64 with Hermes for iOS · [The RN Show Podcast Ep #5](https://www.callstack.com/podcast-react-native-show) · 2021
-- [Upgrading to Progressive Web Apps][9] · [JSConf China Shanghai 2017](http://2017.jsconf.cn/)
-- Building Progressive Web Apps · [CSDI Guangzhou 2017](http://www.csdisummit.com/)
-- The State of Progressive Web App · GDG IO Redux Beijing 2017
-- PWA Rehashing · Baidu HQ Beijing 2017
-- [Service Worker 101][5] · GDG DevFest Beijing 2016
-- [Progressive Web Apps][4] · QCon Shanghai 2016
-- Progressive Web App in my POV · GDG IO Redux Beijing 2016
-- [CSS Still Sucks 2015][2] · 2015
-- [JavaScript Modularization Journey][1] · 2015
+Outside of the security world, I’m someone who enjoys **music, hardware**, and all the tiny obsessive details in between. I have a soft spot for **IEMs**, **mechanical keyboards**, **audio tuning**, and **PC parts**. Whether it’s figuring out the right switch-lube combination, tweaking audio EQ curves, or managing a homelab rack, I love the craft involved in building something to *feel just right*. No RAM or SSD is ever truly “enough,” and yes, I will always find a reason to add another drive or input device to my setup.
 
-[1]: //huangxuan.me/2015/07/09/js-module-7day/
-[2]: //huangxuan.me/2015/12/28/css-sucks-2015/
-[3]: //huangxuan.me/2016/06/05/pwa-in-my-pov/
-[4]: //huangxuan.me/2016/10/20/pwa-qcon2016/
-[5]: //huangxuan.me/2016/11/20/sw-101-gdgdf/
-[6]: https://yanshuo.io/assets/player/?deck=58ac8598b123db0067292f92 "PWA Rehashing"
-[7]: https://yanshuo.io/assets/player/?deck=593ad6fbfe88c2006a0a0d6d "The State of PWA"
-[8]: https://yanshuo.io/assets/player/?deck=594d673d570c357d0698a950 "Building PWA"
-[9]: //huangxuan.me/jsconfcn2017/
-[10]: https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default
-[11]: https://youtu.be/lGEMwh32soc
-[12]: https://reactjs.org/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022.html
+What ties all of this together for me is curiosity. I enjoy breaking things to understand them, rebuilding them to be better, and sharing what I’ve learned along the way. I'm still early in the journey, but I try to keep things grounded — building tools that are not just functional or secure, but intuitive and human-friendly too. The long-term goal? To contribute to a world where technology empowers people rather than extracting from them, and where privacy, usability, and performance can coexist by design.
+
+Right now, I’m learning, experimenting, and just building cool stuff whenever I can — from secure systems to personal tools that make life a little better. And hopefully, a few of those things are worth sharing.
