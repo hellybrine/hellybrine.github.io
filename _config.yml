@@ -48,7 +48,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: mac
+# disqus_username: mac
 
 # Netease settings
 netease_comment: false
