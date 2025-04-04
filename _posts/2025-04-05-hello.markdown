@@ -1,0 +1,44 @@
+---
+layout:     post
+title:      "Hello 2015"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2015-01-29 12:00:00
+author:     "Hux"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - Life
+---
+
+> “Yeah It's on. ”
+
+
+## Hello World
+
+This blog means a lot to me.
+
+Since my freshman years, I’ve been immersed in **cybersecurity** and **self-hosting** not just as a hobby, but as something I genuinely *live* for. There’s something deeply satisfying about understanding systems, breaking them apart, and building them back up on *my* terms. Whether it's running services on a Raspberry Pi or setting up my own DNS resolver, I’ve always preferred control over convenience, curiosity over convention.
+
+But oddly enough, despite all this time in the terminal, I never had a space to write. No place to share the little wins, the hard-learned lessons, the late-night rabbit holes. I wanted a blog that felt like home. Not a Medium account. Not a Substack. Something I could tweak, break, fix, and own completely.
+
+---
+
+### Why this setup?
+
+I stumbled upon how well **GitHub Pages** and **Jekyll** integrate, and immediately saw the appeal; Markdown for writing, Git for versioning, and no servers to babysit. Then I found [Hux’s theme](https://github.com/huxpro/huxpro.github.io), and it just *clicked*. Simple, fast, and developer-first. It felt like the kind of blog I’d want to read *and* build.
+
+I’ve since customized it to better reflect who I am, but I owe a lot to Hux’s original work. Without it, I might still be figuring out what font to use or which static site generator to pick.
+
+---
+
+### What this space is
+
+This is where I’ll document my explorations; security concepts I’m diving into, tools I’m self-hosting, guides I wish existed when I was figuring things out. It’s a bit of a digital garden, a bit of a personal log. No SEO bait, no fluff. Just raw, technical, passionate content.
+
+If you're into breaking things to understand them better, or building infrastructure that answers to *you* and not some faceless SaaS, then maybe you'll find something here that sparks something in you too.
+
+This blog’s just getting started, but it already feels like one of the most *me* things I’ve ever built.
+
+—
+
+*Inspired by Hux, adapted with purpose.*
