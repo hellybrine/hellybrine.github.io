@@ -21,7 +21,6 @@ Since my freshman years, I’ve been immersed in **cybersecurity** and **self-ho
 
 But oddly enough, despite all this time in the terminal, I never had a space to write. No place to share the little wins, the hard-learned lessons, the late-night rabbit holes. I wanted a blog that felt like home. Not a Medium account. Not a Substack. Something I could tweak, break, fix, and own completely.
 
----
 
 ### Why this setup?
 
@@ -29,7 +28,6 @@ I stumbled upon how well **GitHub Pages** and **Jekyll** integrate, and immediat
 
 I’ve since customized it to better reflect who I am, but I owe a lot to Hux’s original work. Without it, I might still be figuring out what font to use or which static site generator to pick.
 
----
 
 ### What this space is
 

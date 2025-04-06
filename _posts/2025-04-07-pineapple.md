@@ -20,7 +20,6 @@ A WiFi Pineapple is a pocket-sized box of chaos. Built for network audits and pe
 
 Hak5 originally built the device, and it quickly became a fan-favorite. It’s practically a rite of passage for pentesters. Think of it as a man-in-the-middle toolkit disguised as a toy.
 
----
 
 ## Why Build My Own?
 
@@ -36,7 +35,6 @@ Two weeks later, the Mango arrived, blissfully unaware of the life it was about 
 
 ![The Mango is here](/img/in-post/mango.jpg)
 
----
 
 ## The Process
 
@@ -53,7 +51,6 @@ It booted.
 
 Functional? Technically, yes. But I’m using that word a bit generously; because let’s not pretend this Mango can go toe-to-toe with a real unit. I have to credit the Hac5's blackmagic on the Kryptonian spaceship makes it an a perfectly selfcontained plug & play audit tool. This does not mean the mango falls short on the **basics**.
 
----
 
 ## What It Can Do
 
@@ -75,7 +72,6 @@ Now, for the limitations:
 
 But for a device the size of a tea biscuit, it still kicks plenty.
 
----
 
 ## The Fun Part
 
@@ -85,7 +81,6 @@ Being able to SSH in, install packages, tweak drivers, and write scripts manuall
 
 And it is portable. Ridiculously so. It fits in the palm of my hand. Add a tiny USB battery and it becomes a weaponized lunchbox. All I need is a USB hub and I can start plugging in multiple adapters for more coverage.
 
----
 
 ## Next Upgrades
 
@@ -97,7 +92,6 @@ A few things on my to-do:
 
 If I get ambitious enough, I might 3D print a custom case to house everything in one tidy brick.
 
----
 
 ## Finally
 
