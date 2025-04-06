@@ -22,4 +22,4 @@ A WiFi Pineapple is a small but powerful device used by security professionals t
 
 The simplest answer is it's just really expensive; plus trying to explain to customs what this alien satelite of a box is would be an equally intresting time. Anyway I came across [xchwarze's pineapple cloner](https://github.com/xchwarze/wifi-pineapple-cloner) via a reddit post and it was almost like divine intervention. So, after extensive searching I found the ["Glocal Net GR-MT300N-V2"](https://www.amazon.co.jp/-/en/GR-MT300N-V2-Standard-Equipped-Wireless-Performance/dp/B0CNC6DMTN) on Amazon Japan which is, well a rebadged Gl.inet Mango. Two weeks later I finally recieve my mango clone, ready to be a pineapple clone.
 
-![The Mango is here](/img/mango.jpg)
+![The Mango is here](/img/in-post/mango.jpg)
