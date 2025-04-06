@@ -77,7 +77,7 @@ But for a device the size of a tea biscuit, it still kicks plenty.
 
 This is where things get exciting. Since it runs full OpenWRT, the whole thing is wide open. I’m currently using an AR9271-based adapter, but I plan to experiment with getting Realtek chipsets working too.
 
-Being able to SSH in, install packages, tweak drivers, and write scripts manually turns this from a one-trick Pineapple into a full-on playground. The web UI while does exist, it's simply built to run scripts, I prefer just the terminal and a lot of Googling.
+Being able to SSH in, install packages, tweak drivers, and write scripts manually turns this from a one-trick Pineapple into a full-on playground. While the web UI does exist, it's simply built to run scripts, I prefer just the terminal and a lot of Googling.
 
 And it is portable. Ridiculously so. It fits in the palm of my hand. Add a tiny USB battery and it becomes a weaponized lunchbox. All I need is a USB hub and I can start plugging in multiple adapters for more coverage.
 
