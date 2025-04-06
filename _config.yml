@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 github_username: hellybrine
-twitter_username: huxpro
+twitter_username: cr171qu3
 
 # Build settings
 highlighter: rouge
