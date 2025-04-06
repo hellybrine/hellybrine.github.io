@@ -23,7 +23,7 @@ Hak5 originally built the device, and it quickly became a fan-favorite. It’s p
 
 ## Why Build My Own?
 
-Because money, mainly. Hak5’s Pineapple is expensive, and I would rather not deal with customs interrogating me about why I’m importing a glowing, antenna-covered hexagon with **“penetration”** in its spec sheet.
+Because money, mainly. Hak5’s Pineapple is expensive, and I would rather not deal with customs interrogating me about why I’m importing a glowing, antenna-covered polygon with **“penetration”** in its spec sheet.
 
 Then, by some divine intervention, I stumbled across [xchwarze’s WiFi Pineapple Cloner](https://github.com/xchwarze/wifi-pineapple-cloner) on Reddit. All I needed now was a compatible router. Easy, right? I had a solid shortlist and was confident I’d find something cheap and usable. That confidence aged like fine milk.
 
