@@ -2,7 +2,7 @@
 layout:     post
 title:      "We have a Wi-Fi Pineapple at home"
 subtitle:   " \"This is for <em>educational</em> purposes\""
-date:       2025-05-04 01:40:00
+date:       2025-04-07 01:40:00
 author:     "Mac"
 header-img: "img/in-post/pineapple.jpg"
 catalog: true
