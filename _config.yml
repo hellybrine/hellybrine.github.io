@@ -1,7 +1,7 @@
 # Site settings
 title: mac's/var/log
 SEOTitle: /var/log
-header-img: img/home-bg.jpg
+header-img: img/home_bg.jpg
 email: blog@machhral.com
 description: "Logs of a curious dev exploring code, self-hosting, and the indie web"
 keyword: " mac, blog, developer, self-hosting, raspberry pi, programming, Jekyll"
