@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "Building Honeygotchi"
-subtitle:   "\"When SSH Honeypots Meet AI (And My Sanity Barely Survived)\""
+subtitle:   "When Honeypots Meet AI"
 date:       2025-05-28 11:45:00
 author:     "Mac"
-header-img: "img/in-post/honey.jpg"
+header-img: "img/in-post/honeypot.jpg"
 catalog: true
 tags:
     - Machine Learning
