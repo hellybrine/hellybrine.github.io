@@ -70,8 +70,8 @@ Here's where things got interesting. My RL agent needed five strategic responses
 The INSULT action was born during a particularly stressful debugging session. I thought, "You know what? If I have to deal with automated bots hammering my system, the least I can do is program it to fight back with sass."
 
 Some of my favorite responses the system learned to generate:
-- *"Your attack patterns are so predictable, 10.19.0.13. Try something original."*
-- *"Command #15 and still failing? Time to give up, 10.19.0.13."*
+- *"Your attack patterns are so predictable. Try something original."*
+- *"Command #15 and still failing? Time to give up."*
 
 Watching my honeypot develop its own personality through reinforcement learning was unexpectedly delightful. It started conservative, but as it learned what kept attackers engaged longer, it got bolder. My honeypot was developing **attitude**, and I was absolutely here for it.
 
