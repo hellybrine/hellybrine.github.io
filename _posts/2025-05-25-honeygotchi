@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Building Honeygotchi"
-subtitle:   "When SSH Honeypots Meet AI (And My Sanity Barely Survived)"
+subtitle:   "\"When SSH Honeypots Meet AI (And My Sanity Barely Survived)\""
 date:       2025-05-28 11:45:00
 author:     "Mac"
 header-img: "img/in-post/honey.jpg"
@@ -27,10 +27,10 @@ That's when Honeygotchi was born. Not just another SSH honeypot, but one that co
 The initial excitement was intoxicating. "I'll build an adaptive honeypot using reinforcement learning!" I declared confidently to my supervisor, probably sounding like every over-ambitious computer science student ever.
 
 The plan was elegant in its simplicity:
-- **SSH honeypot** that attracts attackers ✓
-- **Reinforcement learning agent** that learns optimal responses ✓  
-- **Fake file system** that's convincing enough to fool seasoned hackers ✓
-- **Real-time monitoring** because what's the point without cool dashboards? ✓
+- **SSH honeypot** that attracts attackers
+- **Reinforcement learning agent** that learns optimal responses
+- **Fake file system** that's convincing enough to fool seasoned hackers
+- **Real-time monitoring** because what's the point without cool dashboards?
 
 What could go wrong? 
 
