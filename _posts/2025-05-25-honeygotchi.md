@@ -16,9 +16,9 @@ tags:
 
 ## The "Aha!" Moment That Started It All
 
-Picture this: It's 2 AM, I'm drowning in cybersecurity research papers for my mini-project, and I stumble across this mind-blowing realization. Why are all honeypots so... dumb? 
+It's 2 AM, I'm drowning in research papers for my minor project, and I stumble across this mind-blowing realization. Why are all honeypots so... dumb? Don't get me wrong, they do the job but here we are in '25, with AI stuffed basically in everything from coffee makers to space exploration.
 
-Here we are in 2025, with AI revolutionizing everything from coffee makers to space exploration, yet honeypots are still using the same boring, predictable responses they've had since the early 2000s. It was like watching someone try to catch fish with a fishing rod made of spaghetti. Technically possible, but painfully inefficient.
+Yet honeypots are still using the same boring, predictable responses they've had since the early 2000s. It's was like watching someone try to catch fish with a fishing rod made of spaghetti. Technically possible, but painfully inefficient.
 
 That's when Honeygotchi was born. Not just another SSH honeypot, but one that could **learn, adapt, and yes, even insult attackers back**. More on that delightful feature later.
 
